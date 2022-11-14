@@ -1,5 +1,5 @@
-Usage
-=====
+Usage Tim
+==========
 
 .. _installation:
 
